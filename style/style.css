@@ -1,0 +1,6 @@
+@import url("inputs.css");
+
+body {
+    flex-direction: column;
+    display: flex;
+}
